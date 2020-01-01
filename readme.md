@@ -1,4 +1,4 @@
-# HOW TO BUILD TESLA CYBER TRUCK
+# Easy Object Following Robot using Arduino and PixyCam
 
 
 [![Watch Video](https://github.com/murtazahassan/Object-Following-Robot/blob/master/ObjectFollowingRobotThumbnail.png)](https://youtu.be/w_krOCBk1DE)
