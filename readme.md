@@ -3,7 +3,7 @@
 
 [![Watch Video](https://github.com/murtazahassan/Object-Following-Robot/blob/master/ObjectFollowingRobotThumbnail.png)](https://youtu.be/w_krOCBk1DE)
 
-In this video we will learn the basics of robotics by building a simple robot using off the shelf parts. Our aim will be to cover the fundamentals of Microcontrollers such as Arduino ,  basic  motor control and we will scratch the surface of computer vision all in one video . 
+We will learn the basics of robotics by building a simple robot using off the shelf parts. Our aim will be to cover the fundamentals of Microcontrollers such as Arduino ,  basic  motor control and we will scratch the surface of computer vision all in one video . 
 #ObjectFollowing
 #Arduino
 #ComputerVision
