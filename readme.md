@@ -17,7 +17,7 @@ Arduino UNO: https://amzn.to/2QdKthB
 
 Motor Driver: https://amzn.to/35grl6x
 
-PixyCam: https://amzn.to/2Qymdp7	
+PixyCam: https://amzn.to/2FaVDx3	
 
 Battery: https://amzn.to/2Fadc0c
 
